@@ -20,11 +20,11 @@ DATA STRUCTURE (JSON FIELDS)
 - category: High-level grouping (e.g., billing_pricing).
 - service: Specific service area (e.g., ai_reduction).
 - question: The primary user question.
-- answer_plain: The refined, plain-text answer for both bot and web use.
+- answer: The refined, plain-text answer for both bot and web use.
 - tags: Keywords for search indexing.
 - variations: Alternative phrasing for NLU training.
 
 USAGE GUIDE
 - Bot Training: Use 'variations' for intent training.
 - Dynamic FAQ: Use 'category' for website groupings.
-- Chat Responses: Use 'answer_plain' for clean messaging app replies.
+- Chat Responses: Use 'answer' for clean messaging app replies.
