@@ -314,7 +314,7 @@
     "question": "What file format should I submit for AI reduction?",
     "tags": "file format, docx required, pdf not accepted, ai reduction format, editable file, ai reduction, ai reduction service",
     "intent": "file_format_needed_for_ai_reduction",
-    "answer_plain": "For AI reduction, you must submit your document in DOC or DOCX format. This is because the file needs to be editable for our experts to rewrite the content.",
+    "answer_plain": "For AI reduction, you must submit your document in DOC or DOCX format. This is because the file needs to be editable for our experts to rewrite the content. Get started here: https://www.researchexperts.in/?service_chosen=AI%20Reduction",
     "variations": [
       "What file format should I submit for AI reduction?",
       "Which file type for AI reduction?",
@@ -332,7 +332,7 @@
     "question": "Can I see the changes made during AI reduction?",
     "tags": "tracked changes, preview changes, highlight, compare original, ai reduction edits, ai reduction, ai reduction service",
     "intent": "can_i_preview_changes_after_ai_reduction",
-    "answer_plain": "No, we do not provide tracked changes or highlighted edits. After completion, you will receive a clean, final version of the document. You can compare it with your original file manually to review the differences.",
+    "answer_plain": "No, we do not provide tracked changes or highlighted edits. After completion, you will receive a clean, final version of the document. You can compare it with your original file manually to review the differences. Get started here: https://www.researchexperts.in/?service_chosen=AI%20Reduction",
     "variations": [
       "Can I see the changes made during AI reduction?",
       "Can I see what you changed for AI?",
@@ -350,7 +350,7 @@
     "question": "What if the AI score is still high after the AI reduction service?",
     "tags": "still high ai, not satisfied, revision ai reduction, ai score after service, recheck, ai reduction, ai reduction service",
     "intent": "what_if_i_am_not_satisfied_with_ai_reduction",
-    "answer_plain": "If your AI score remains higher than your target after our service, we are here to help. Simply share the updated AI report with us, and we will provide further revisions during your revision period.",
+    "answer_plain": "If your AI score remains higher than your target after our service, we are here to help. Simply share the updated AI report with us, and we will provide further revisions during your revision period. Get started here: https://www.researchexperts.in/?service_chosen=AI%20Reduction",
     "variations": [
       "What if the AI score is still high after the AI reduction service?",
       "What if AI score is still high after service?",
@@ -692,7 +692,7 @@
     "question": "Can you rewrite or significantly improve my content as part of proofreading?",
     "tags": "proofreading vs editing, no rewriting, content improvement, grammar only, not included, proofreading",
     "intent": "does_proofreading_include_content_rewriting",
-    "answer_plain": "No. Proofreading focuses on correcting errors — not improving or rewriting the content. Minor rephrasing may be done to fix grammatical issues, but complete sentence rewrites or content improvements are not included.",
+    "answer_plain": "No. Proofreading focuses on correcting errors — not improving or rewriting the content. Minor rephrasing may be done to fix grammatical issues, but complete sentence rewrites or content improvements are not included. Get started here: https://www.researchexperts.in/?service_chosen=Proofreading",
     "variations": [
       "Can you rewrite or significantly improve my content as part of proofreading?",
       "Do you rewrite paragraphs in proofreading?",
@@ -710,7 +710,7 @@
     "question": "Will proofreading reduce plagiarism or AI content in my document?",
     "tags": "proofreading plagiarism, no plagiarism reduction, no ai reduction, separate service, proofreading",
     "intent": "will_proofreading_reduce_plagiarism_or_ai_content",
-    "answer_plain": "No. Proofreading corrects language errors but does not address plagiarism or AI detection scores. These are completely separate concerns requiring separate services.",
+    "answer_plain": "No. Proofreading corrects language errors but does not address plagiarism or AI detection scores. These are completely separate concerns requiring separate services. Get started here: https://www.researchexperts.in/?service_chosen=Proofreading",
     "variations": [
       "Will proofreading reduce plagiarism or AI content in my document?",
       "Does proofreading fix plagiarism?",
@@ -728,7 +728,7 @@
     "question": "Do you use tools like Grammarly for proofreading?",
     "tags": "grammarly, no automated tools, manual proofreading, human expert, not grammarly, proofreading",
     "intent": "do_you_use_grammarly_for_proofreading",
-    "answer_plain": "No. Our proofreading is done entirely by human experts with strong language skills and academic knowledge. We do not rely on automated tools like Grammarly for our work.",
+    "answer_plain": "No. Our proofreading is done entirely by human experts with strong language skills and academic knowledge. We do not rely on automated tools like Grammarly for our work. Get started here: https://www.researchexperts.in/?service_chosen=Proofreading",
     "variations": [
       "Do you use tools like Grammarly for proofreading?",
       "Do you use Grammarly?",
@@ -746,7 +746,7 @@
     "question": "Will the corrections be highlighted or tracked in the proofread document?",
     "tags": "tracked changes, highlighted corrections, final version, no track changes, compare files, proofreading",
     "intent": "will_i_receive_tracked_changes_after_proofreading",
-    "answer_plain": "No. We deliver the final corrected version of your document without tracked changes or highlighted edits. The proofreading is done manually and the document is refined in its entirety.",
+    "answer_plain": "No. We deliver the final corrected version of your document without tracked changes or highlighted edits. The proofreading is done manually and the document is refined in its entirety. Get started here: https://www.researchexperts.in/?service_chosen=Proofreading",
     "variations": [
       "Will the corrections be highlighted or tracked in the proofread document?",
       "Can I see proofreading edits?",
@@ -818,7 +818,7 @@
     "question": "Can grammar correction fix all errors in my document?",
     "tags": "grammar correction all errors, limitations, complex document, best effort, revision, proofreading",
     "intent": "can_grammar_correction_fix_all_errors",
-    "answer_plain": "We aim to correct all detectable grammar errors within the document. However, the extent of improvement depends on the quality and complexity of the original content. Heavily flawed or highly technical writing may have limitations.",
+    "answer_plain": "We aim to correct all detectable grammar errors within the document. However, the extent of improvement depends on the quality and complexity of the original content. Heavily flawed or highly technical writing may have limitations. Get started here: https://www.researchexperts.in/?service_chosen=Grammar%20Correction",
     "variations": [
       "Can grammar correction fix all errors in my document?",
       "Does grammar check fix everything?",
@@ -908,7 +908,7 @@
     "question": "How long does document formatting take?",
     "tags": "formatting time, turnaround, how long, urgent formatting, delivery timeline, formatting, formatting services",
     "intent": "how_long_does_document_formatting_take",
-    "answer_plain": "The turnaround time depends on your document's length and complexity. Typically, shorter documents are completed within 12 to 24 hours, while more extensive files like dissertations may take a bit longer.",
+    "answer_plain": "The turnaround time depends on your document's length and complexity. Typically, shorter documents are completed within 12 to 24 hours, while more extensive files like dissertations may take a bit longer. Get started here: https://www.researchexperts.in/?service_chosen=Document%20Formatting",
     "variations": [
       "How long does document formatting take?",
       "Wait time for document formatting",
@@ -959,7 +959,7 @@
     "question": "What is the revision policy for document formatting?",
     "tags": "revision, 7 days, formatting revision, revision policy, correction after delivery, formatting, formatting services",
     "intent": "revision_policy_for_document_formatting",
-    "answer_plain": "Revisions are available within 7 days of delivery, based on the original formatting requirements. If you find inconsistencies or errors in the formatting that do not match your provided guidelines, we will correct them at no additional cost.",
+    "answer_plain": "Revisions are available within 7 days of delivery, based on the original formatting requirements. If you find inconsistencies or errors in the formatting that do not match your provided guidelines, we will correct them at no additional cost. Get started here: https://www.researchexperts.in/?service_chosen=Document%20Formatting",
     "variations": [
       "What is the revision policy for document formatting?",
       "correction after delivery"
@@ -1052,7 +1052,7 @@
     "question": "What exactly does the citation formatting service include — and what is outside its scope?",
     "tags": "citation formatting scope, what is included, not included, scope, limitations citation, citation formatting, formatting services",
     "intent": "what_does_citation_formatting_include_and_not_include",
-    "answer_plain": "This service focuses on making your references look perfect. We organize your in-text citations and bibliography according to your chosen style (like APA or MLA), ensuring all punctuation and ordering are correct.",
+    "answer_plain": "This service focuses on making your references look perfect. We organize your in-text citations and bibliography according to your chosen style (like APA or MLA), ensuring all punctuation and ordering are correct. Get started here: https://www.researchexperts.in/?service_chosen=Citation%20Formatting",
     "variations": [
       "What exactly does the citation formatting service include — and what is outside its scope?",
       "citation formatting scope",
@@ -1230,7 +1230,7 @@
     "question": "Do you offer revisions for citation formatting?",
     "tags": "citation revision, revision policy, correction, citation error, style mismatch, citation formatting, formatting services",
     "intent": "revisions_for_citation_formatting",
-    "answer_plain": "Yes. Revisions are available if the formatted citations do not match the specified style or guidelines. Please raise any concerns promptly after reviewing the delivered document. Revisions are based on the original formatting requirements.",
+    "answer_plain": "Yes. Revisions are available if the formatted citations do not match the specified style or guidelines. Please raise any concerns promptly after reviewing the delivered document. Revisions are based on the original formatting requirements. Get started here: https://www.researchexperts.in/?service_chosen=Citation%20Formatting",
     "variations": [
       "Do you offer revisions for citation formatting?",
       "Can I ask for citation edits?",
@@ -2606,7 +2606,7 @@
     "question": "What is the difference between plagiarism removal and AI reduction?",
     "tags": "plagiarism vs ai, difference, ai reduction, plagiarism removal, comparison, general, general info",
     "intent": "difference_between_plagiarism_removal_and_ai_reduction",
-    "answer_plain": "Plagiarism removal addresses high similarity with existing published sources — meaning your document's text closely matches content already found on the internet, in journals, or in other submissions.",
+    "answer_plain": "Plagiarism removal addresses high similarity with existing published sources — meaning your document's text closely matches content already found on the internet, in journals, or in other submissions. Get started here: https://www.researchexperts.in/?service_chosen=AI%20Reduction",
     "variations": [
       "What is the difference between plagiarism removal and AI reduction?",
       "Plagiarism vs AI reduction",
@@ -3146,7 +3146,7 @@
     "question": "How does the plagiarism removal process work?",
     "tags": "process, how it works, plagiarism removal, rewriting, expert, workflow, plagiarism removal service",
     "intent": "how_does_plagiarism_removal_work",
-    "answer_plain": "When you submit your document, it is first reviewed to assess the current similarity level. A subject-matter expert relevant to your academic field is then assigned to the file.",
+    "answer_plain": "When you submit your document, it is first reviewed to assess the current similarity level. A subject-matter expert relevant to your academic field is then assigned to the file. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "How does the plagiarism removal process work?",
       "Plagiarism removal process",
@@ -3218,7 +3218,7 @@
     "question": "What is your revision policy after plagiarism removal?",
     "tags": "revision policy, 7 days, free revision, not satisfied, recheck, score still high, plagiarism removal, plagiarism removal service",
     "intent": "revision_policy_after_plagiarism_removal",
-    "answer_plain": "We provide free revisions for up to 7 days after delivery. This is applicable only if no new content has been added, removed, or modified on your side after delivery.",
+    "answer_plain": "We provide free revisions for up to 7 days after delivery. This is applicable only if no new content has been added, removed, or modified on your side after delivery. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "What is your revision policy after plagiarism removal?",
       "Changes after plagiarism removal",
@@ -3236,7 +3236,7 @@
     "question": "How do I submit my document for plagiarism removal?",
     "tags": "submit, how to submit, submission, plagiarism removal, send document, plagiarism removal service",
     "intent": "how_to_submit_for_plagiarism_removal",
-    "answer_plain": "You can submit your document through the submission form on our website at researchexperts. in, or share it directly via WhatsApp or email.",
+    "answer_plain": "You can submit your document through the submission form on our website at researchexperts. in, or share it directly via WhatsApp or email. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "How do I submit my document for plagiarism removal?",
       "Ordering plagiarism removal",
@@ -3326,7 +3326,7 @@
     "question": "Can you help reduce self-plagiarism in my document?",
     "tags": "self plagiarism, own work reused, previous submission, earlier paper, thesis self plagiarism, plagiarism removal, plagiarism removal service, selfplagiarism removal",
     "intent": "selfplagiarism_removal",
-    "answer_plain": "Yes. Self-plagiarism occurs when you reuse content from your own previously submitted or published work without sufficient modification or citation. We can help by restructuring and rewriting such sections carefully, reducing overlap while preserving the original intent.",
+    "answer_plain": "Yes. Self-plagiarism occurs when you reuse content from your own previously submitted or published work without sufficient modification or citation. We can help by restructuring and rewriting such sections carefully, reducing overlap while preserving the original intent. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "Can you help reduce self-plagiarism in my document?",
       "Fixing self-plagiarism flags",
@@ -3488,7 +3488,7 @@
     "question": "Is grammar checked and corrected as part of plagiarism removal?",
     "tags": "grammar, grammar correction, proofreading included, language check, basic grammar, plagiarism removal, plagiarism removal service",
     "intent": "grammar_correction_during_plagiarism_removal",
-    "answer_plain": "Basic grammar correction is carried out as part of the rewriting process, since experts naturally improve sentence structure and clarity while rewriting. However, this is not a comprehensive proofreading service — the primary focus is on reducing similarity.",
+    "answer_plain": "Basic grammar correction is carried out as part of the rewriting process, since experts naturally improve sentence structure and clarity while rewriting. However, this is not a comprehensive proofreading service — the primary focus is on reducing similarity. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "Is grammar checked and corrected as part of plagiarism removal?",
       "Do you fix grammar while fixing plagiarism?",
@@ -3542,7 +3542,7 @@
     "question": "Can you help if my research paper was rejected due to high plagiarism?",
     "tags": "rejected paper, resubmission, rejected journal, plagiarism rejection, fix rejected paper, plagiarism removal, plagiarism removal service",
     "intent": "plagiarism_removal_for_rejected_papers",
-    "answer_plain": "Yes. If your paper was rejected due to high similarity, we can assist with plagiarism removal to bring the score within the acceptable range. We can also help with AI reduction and document formatting if required.",
+    "answer_plain": "Yes. If your paper was rejected due to high similarity, we can assist with plagiarism removal to bring the score within the acceptable range. We can also help with AI reduction and document formatting if required. Get started here: https://www.researchexperts.in/?service_chosen=Plagiarism%20Removal",
     "variations": [
       "Can you help if my research paper was rejected due to high plagiarism?",
       "Help with rejected research paper",
