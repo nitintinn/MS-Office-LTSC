@@ -4087,5 +4087,24 @@
       "Is my project ready?",
       "Give me an update on my work."
     ]
+  },
+  {
+    "type": "faq",
+    "service": "general",
+    "project_state": "pre_order",
+    "category": "pricing",
+    "title": "Plagiarism Removal Cost Estimation Calculator",
+    "question": "How can I estimate the cost of AI and Plagiarism removal services?",
+    "tags": "cost, estimation, calculator, price, ai removal cost, plagiarism removal cost",
+    "intent": "plagiarism_removal_cost_estimation_calculator",
+    "answer": "Please use the quick calculator on the below link to estimate the cost of plagiarism removal services. Do not forget to choose your appropriate currency. https://www.researchexperts.in/plagiarism-removal-cost-estimation-calculator/",
+    "variations": [
+      "How much will AI removal cost?",
+      "how much will Plagiarism  removal cost?",
+      "how much will AI and Plagiarism removal cost?",
+      "Calculator for plagiarism removal cost",
+      "Cost estimation tool",
+      "Estimate the cost for AI reduction"
+    ]
   }
 ]
